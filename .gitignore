@@ -11,3 +11,4 @@ TAGS
 *.gem
 tags
 .ruby-version
+.idea
